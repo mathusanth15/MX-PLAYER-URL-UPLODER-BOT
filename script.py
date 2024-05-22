@@ -23,7 +23,7 @@ Some movies may be DRM protected or just couldn't be downloaded</b>"""
 
 
     ABOUT_TEXT = """⭕️<b>My Name : DADS LINKS MX PLAYER Url Uploader</b>
-⭕️<b>Creater :</b> @Dads_links
+⭕️<b>Creater :</b> @Leyon
 ⭕️<b>Language :</b> <code>Python3</code>
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 ⭕️<b>Source Code :</b> 👉 <a href='https://t.me/Doctorstra_1'>Click Here</a>"""
@@ -36,7 +36,7 @@ Some movies may be DRM protected or just couldn't be downloaded</b>"""
 <i>NOTE : Taking high resolutions may result in files above 2GB and hence cannot Upload to TG. So better select a medium resolution.</i> 😇
 """    
     
-    UPGRADE_TEXT = "PING at @Dads_links"
+    UPGRADE_TEXT = "PING at @Leyon"
     
     DOWNLOAD_START = "Trying to download to my server. This may take a while 😴"
     
@@ -50,11 +50,11 @@ Some movies may be DRM protected or just couldn't be downloaded</b>"""
     
     DEL_ETED_CUSTOM_THUMB_NAIL = "✅ Custom Thumbnail cleared succesfully."
     
-    SHOW_THUMB = "@Dads_links\n\nUse /delthumb to clear this thumbnail."
+    SHOW_THUMB = "@Leyon\n\nUse /delthumb to clear this thumbnail."
     
     NO_THUMB = "SED😕 No saved thumbnails Found!!"
     
-    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @Dads_links</b>"
+    CUSTOM_CAPTION_UL_FILE = "<b>{newname}\n\n©️ @Leyon</b>"
     
     TIMEOUT = "<b><i>Sorry for the delay. It'll help reduce the flood wait</i> 😇\n\nWait for {} sec and try again.</b>"
    
